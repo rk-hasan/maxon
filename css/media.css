@@ -1,0 +1,366 @@
+/* Start Header */
+@media screen and (max-width: 767px) {
+  section {
+    padding-bottom: 50px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .sec-heading .sec-title {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .sec-heading .sec-title {
+    font-size: 26px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .nopadd-ltf {
+    padding-left: 0;
+  }
+  .nopadd-rth {
+    padding-right: 0;
+  }
+  .nopadd {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .btn:first-of-type {
+    margin-right: 25px;
+  }
+}
+
+/* Start Tagline */
+@media screen and (max-width: 991px) {
+  .tagline {
+    font-size: 12px;
+  }
+}
+
+/* Contant Box */
+@media screen and (max-width: 479px) {
+  .content-box h2, .content-box-fluid h2 {
+    font-size: 26px;
+    line-height: 34px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .content-box-fluid {
+    max-width: 505px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .content-box-fluid.right {
+    float: right;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .abs-header {
+    background-color: #fff;
+  }
+}
+
+/* Navigation Menu */
+@media screen and (max-width: 991px) {
+  .navbar {
+    position: inherit;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar-nav li .sub-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    width: 220px;
+    z-index: 1;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar-nav li .sub-menu a {
+    padding: 20px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar-nav li:hover .sub-menu {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .navbar-nav {
+    background-color: #fff;
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+  }
+  .navbar-nav li a {
+    padding: 20px 35px;
+  }
+  .navbar-nav li a:hover {
+    background-color: #f5f5f5;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .navbar-nav li a {
+    padding: 20px 15px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #mobile-menu-toggler {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .menu-dropdown {
+    right: 35px;
+    top: 15px;
+    -webkit-transform: none;
+            transform: none;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar-nav li .sub-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    width: 220px;
+    z-index: 1;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar-nav li .sub-menu a {
+    padding: 20px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar-nav li:hover .sub-menu {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .navbar-nav {
+    background-color: #fff;
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+  }
+  .navbar-nav li a {
+    padding: 20px 35px;
+  }
+  .navbar-nav li a:hover {
+    background-color: #f5f5f5;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .navbar-nav li a {
+    padding: 20px 15px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #mobile-menu-toggler {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .menu-dropdown {
+    right: 35px;
+    top: 15px;
+    -webkit-transform: none;
+            transform: none;
+  }
+}
+
+/* End Header */
+
+/* Start Bennar */
+@media screen and (max-width: 991px) {
+  .banner .content-box h2, .banner .content-box-fluid h2 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .banner .content-box h2, .banner .content-box-fluid h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .banner .ban-img {
+    margin-bottom: 40px;
+  }
+}
+/* End Bannar */
+/* Start Features */
+@media screen and (max-width: 767px) {
+  .about .content-box-fluid h2 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .about .content-box-fluid h2 {
+    font-size: 22px;
+    line-height: 30px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .about .content-box-fluid h5 {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .about .content-box-fluid {
+    padding-left: 60px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .about .content-box-fluid {
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .about-img-group .about-img-1 {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .about-img-group h3 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .about-img-group {
+    margin-bottom: 50px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .iconBox {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .funfacts {
+    padding-bottom: 35px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .single-fun img {
+    margin: 0 auto 30px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .single-fun {
+    margin-bottom: 60px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .single-fun {
+    text-align: center;
+  }
+}
+/* End Features */
+
+/* Start Work */
+
+@media screen and (max-width: 991px) {
+  .works .pb-50 {
+    padding-bottom: 60px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .works .pb-50 {
+    padding-bottom: 40px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .works .content-box-fluid.right {
+    margin-bottom: 40px;
+  }
+}
+
+/* End Work */
+/* Start Testimonial */
+@media screen and (max-width: 767px) {
+  .tesimonial .video-box {
+    margin-bottom: 40px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .test-caro {
+    padding-left: 60px;
+  }
+}
+
+/* End Testimonial */
+/* Start Team */
+@media screen and (max-width: 767px) {
+  .single-memb, .post-item {
+    margin-bottom: 30px;
+  }
+}
+/* End Team */
+/* Start Contact */
+@media screen and (max-width: 767px) {
+  .contact .contact-info {
+    margin-bottom: 30px;
+  }
+}
+/* End Contact */
+/* Start Partners */
+@media screen and (max-width: 767px) {
+  .widget-insta-feed {
+    margin-bottom: 30px;
+  }
+}
+/* End Partners */
